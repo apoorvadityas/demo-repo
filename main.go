@@ -1,6 +1,8 @@
 package main
 import "fmt"
 
-func main(){
-fmt.printF("hello world")
+func main() {
+	fmt.Printf("hello world")
+	fmt.Printf("my first local update)
+	")
 }
